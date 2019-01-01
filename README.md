@@ -10,3 +10,4 @@ Your MCRP image file should be availble in ```output``` folder. \
 * [carliv](https://gitlab.com/carliv) for creating img pack'n'unpack scripts
 * [teamwin](https://github.com/TeamWin) for creating [twrp](https://twrp.me)
 * [google](https://github.com/google) for creating Android OS
+* [NitroFuN](https://github.com/nitrofun) for idea
